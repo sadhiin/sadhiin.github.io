@@ -13,21 +13,6 @@
 - Conducted comprehensive research, experiments, and data analysis to support project objectives.
 
 ## Projects
-###
-# Shanjidul Islam Sadhin
-
-#### Technical Skills: Python, Tensorflow, SQL, DVC, MlFlow
-
-## Education
-- B.Sc Computer Science & Engineering | American International University-Bangladesh (_Jan 2000- Presnet_)
-- H.S.C. Science | BAF Shaheen Collage-Dhaka (_Jun 2018_)
-
-## Work Experience
-**Researh Assistant in Computer Vision (_Sep 2023 - Present_)**
-- Collaborated with the research team to contribute to Computer Vision research project.
-- Conducted comprehensive research, experiments, and data analysis to support project objectives.
-
-## Projects
 ### Kidney Tumors and Stones Classification
 - "Kidney Disease Tumor and Stone Classification" is a deep learning project aimed at accurately classifying kidney tumors and stones from medical images. The project is designed to integrate state-of-the-art machine learning techniques with robust data management and collaborative tools, providing a significant contribution to medical imaging analysis.
 
