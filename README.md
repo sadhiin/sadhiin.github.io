@@ -1,41 +1,71 @@
 
-# Shanjidul Islam Sadhin
+# Aspiring Data Scientist / Computer Vision Researcher / Backend Developer
 
-#### Technical Skills: Python, Tensorflow, SQL, DVC, MlFlow
+#### Technical Skills: C++, Python, Machine Learning, Tensorflow, Flask, Django, SQL, DVC, MlFlow
 
 ## Education
-- B.Sc Computer Science & Engineering | American International University-Bangladesh (_Jan 2000- Presnet_)
+- B.Sc Computer Science & Engineering | American International University-Bangladesh (_Jan 2020-Dec 2023_)
 - H.S.C. Science | BAF Shaheen Collage-Dhaka (_Jun 2018_)
 
-## Work Experience
+## Experience
 **Researh Assistant in Computer Vision (_Sep 2023 - Present_)**
 - Collaborated with the research team to contribute to Computer Vision research project.
 - Conducted comprehensive research, experiments, and data analysis to support project objectives.
 
-## Projects
-### Kidney Tumors and Stones Classification
-- "Kidney Disease Tumor and Stone Classification" is a deep learning project aimed at accurately classifying kidney tumors and stones from medical images. The project is designed to integrate state-of-the-art machine learning techniques with robust data management and collaborative tools, providing a significant contribution to medical imaging analysis.
-
-- Skills: Python · TensorFlow · DVC · MLOps
-
-### IUB Idea’s Gateway - AIG
-- Architected and developed a comprehensive ASP.NET Web API, adhering to SOLID principles and a 3-tier architecture, aimed at creating the AIUB student community platform. The application facilitates **resume building**, postings, posting for **job opening** and **one-click job applications**. Admin functionalities include advanced access controls for post/job moderation, user management, and in-depth statistical analytics. Responsibilities encompassed
-complete database design, use-case analysis, authentication and authorization and others feature and API end-points.
-Tech:ASP.NET, C#, Entity-Framework, Github (July - August 2023)
-
-### Emotion Classification from Face Images in Real-Time
-- Developed a real-time emotion classification system capable of identifying human emotions from facial expressions using a custom-built deep learning model. The project features a Flask Web API, enabling real-time emotion detection through a web browser interface. The system captures facial expressions via
-webcam and deep learning model to classify emotions with high accuracy. The project aims to provide valuable insights for user experience design, mental health assessment, and interactive web application and API.
-- Tech: Python,TensorFlow, OpenCV, Flask, JavaScript, HTML, CSS.
-
-### On-the-Go-Podcast
-- Designed and implemented a user-friendly project utilizing PHP. This project caters specifically to podcast enthusiasts, providing them with a platform to effectively organize and enjoy their favorite podcasts.
-- Tech: PHP, JavaScript, Bootstrap, CSS, HTML, Git
+## Research Experience
+1. [_Draft_] Research: A Large-Scale Action Dataset
+2. [_Under-Review_] Research: High-Accuracy Image Segmentation for Self-Driving Cars
 
 ## Publications
-1.Speech Emotion Recognition using Transfer Learning Approach and Real-Time Evaluation in English and Bengali Language
+1. Speech Emotion Recognition using Transfer Learning Approach and Real-Time Evaluation in English and Bengali Language
 [ResearchGate](http://dx.doi.org/10.13140/RG.2.2.31324.87684)
 
 
+## Projects
+### (_Python Package_) SpectraClassify
+- Built a user-friendly web application for training custom image classification models without writing code.
+  - **Effortlessly create custom models:** Train models on their own data with a simple interface, eliminating the need for coding expertise.
+  - **Experiment with diverse models:** Select from a variety of pre-trained models or fine-tune existing ones for specific tasks.
+  - **Seamless testing and inference:** Upload images or utilize webcam input to test the accuracy and effectiveness of their trained models.
+  - **Published as a PyPI package:** Enabling broader accessibility and facilitating quick image classification model training with minimal code for developers.
+
+- Tech: Python, TensorFlow, JS, HTML, Bash
+- Skills: Deep Learning, Web Development, CICD pipeline.
+### Kidney Tumors and Stones Classification
+- A deep learning project aimed at accurately classifying kidney tumors and stones from medical images.
+  - The project is designed to integrate state-of-the-art machine learning techniques with robust data management and collaborative tools, providing a significant contribution to medical imaging analysis.
+
+- Tech: Python · TensorFlow · DVC · MLOps.
+- Skills: Deep Learning, Web-Development, Version Control.
+
+### Community Platform for AIUB Students - AIG
+- Developed a comprehensive web application (ASP.NET Web API) using C# and Entity Framework to foster the AIUB student community. Adhering to SOLID principles and a robust 3-tier architecture, the platform empowers students with:
+  - **Engaging communication:** Features for students to connect and share information.
+  - **Streamlined resume building:** Efficient tools for creating resumes for the users.
+  - **Job opportunities:** Centralized platform for posting and applying to job openings with one-click ease.
+  - **Advanced access control:** Admin control over post and job moderation, user management, and security.
+- **Responsibilities included:** Full database design, Use-case analysis, Authentication & authorization, Development of features and API endpoints
+  
+- Tech:ASP.NET, C#, Entity-Framework, Git
+- Skills: Software Development, Version-controll
+
+### Emotion Classification from Face Images in Real-Time
+- Developed a real-time emotion classification system using a custom deep learning model and Flask Web API. This project enables users to:
+  + **Classify emotions in real-time:** Leverage their webcam to capture facial expressions and receive instant emotion classification through a user-friendly web interface.
+  + **High-accuracy classification:** The custom deep learning model delivers accurate emotion identification, fostering potential applications in various fields.
+
+- Tech: Python,TensorFlow, OpenCV, Flask, JavaScript, HTML, CSS.
+- Skill: Deep Learning, Image processing, Web-development.
+
+### On-the-Go-Podcast
+- Developed a podcast app using PHP to empower podcast enthusiasts. This platform offers:
+  + Streamlined organization: Efficient tools for managing playlists, and listening progress.
+  + Seamless podcast experience: Effortlessly discover, subscribe to, and enjoy favorite podcasts, all within a user-friendly interface.
+
+- Tech: PHP, JavaScript, Bootstrap, CSS, HTML, Git
+- Skills: Web development
+
+## Honors and Awards
+- Dean’s List Award - for outstanding academic performance in undergrad.
 - Follow me on [Linkedin](https://www.linkedin.com/in/sadhiin/)
 Happy coding! ✨
