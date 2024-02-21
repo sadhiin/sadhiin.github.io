@@ -31,6 +31,7 @@
 
 - Tech: Python, TensorFlow, JS, HTML, Bash
 - Skills: Deep Learning, Web Development, CICD pipeline.
+
 ### Kidney Tumors and Stones Classification
 - A deep learning project aimed at accurately classifying kidney tumors and stones from medical images.
   - The project is designed to integrate state-of-the-art machine learning techniques with robust data management and collaborative tools, providing a significant contribution to medical imaging analysis.
@@ -65,7 +66,18 @@
 - Tech: PHP, JavaScript, Bootstrap, CSS, HTML, Git
 - Skills: Web development
 
+### Hospital Management System
+- Developed a comprehensive hospital management system to streamline operations and enhance efficiency in multi-department healthcare facilities. This desktop application features:
+  + Multi-user access control: Granular role-based permissions for doctors, nurses, administrators, and other staff members.
+  + Comprehensive department management: Dedicated modules for various departments like admissions, billing, pharmacy, and patient records.
+  + User-friendly interface: Intuitive design for seamless navigation and efficient data management. 
+
+- Tech: C#, C#-Form , MS-sql, Git
+- Skill: Desktop application, Database design.
 ## Honors and Awards
 - Dean’s List Award - for outstanding academic performance in undergrad.
+
+## Contract
+- Reach me at email: [sadhin.aiub.cse@gmail.com](mailto:sadhin.aiub.cse@gmail.com)
 - Follow me on [Linkedin](https://www.linkedin.com/in/sadhiin/)
-Happy coding! ✨
+
