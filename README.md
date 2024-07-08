@@ -8,7 +8,14 @@
 - H.S.C. Science | BAF Shaheen Collage-Dhaka (_Jun 2018_)
 
 ## Experience
-**Researh Assistant in Computer Vision (_Sep 2023 - Present_)**
+**Junior AI Developer CRTVAI (Full-time _Remote_) (_April 2024 - Present_)**
+- Designed and implemented the system architecture and API endpoints of an automated quality control AI application to enhance customer care services.
+- Fine-tuned speech-to-text models, deploying server-less models to minimize third-party transcription costs.
+- Improved the Voice Activity Detection pipeline and conducted a detailed analysis of speech metrics to enhance accuracy and efficiency.
+- Achieved a _**25% reduction**_ in GPT API calling costs through strategic optimization.
+- Implemented Background task processing techniques to significantly enhance system performance and reliability.
+
+**Researh Assistant in Computer Vision (Full-time) (_Sep 2023 - Jan 2024_)**
 - Collaborated with the research team to contribute to Computer Vision research project.
 - Conducted comprehensive research, experiments, and data analysis to support project objectives.
 - Research Collaboration: Actively participated in a Computer Vision research project, leveraging my skills and knowledge to contribute to the team’s success.
