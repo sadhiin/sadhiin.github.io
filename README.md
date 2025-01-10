@@ -1,14 +1,27 @@
+# Passionate AI Engineer | Deep Learning Researcher | Backend Developer
 
-# Aspiring Data Scientist / Computer Vision Researcher / Backend Developer
-
-#### Technical Skills: C++, Python, Machine Learning, Tensorflow, Flask, Django, SQL, DVC, MlFlow
+#### Technical Skills: Python, Machine Learning, Deep Learning, TensorFlow, Hugging Face, Flask, Django, SQL, DVC, MlFlow, Pandas, NumPy, Computer Vision, NLP
 
 ## Education
-- B.Sc Computer Science & Engineering | American International University-Bangladesh (_Jan 2020-Dec 2023_)
-- H.S.C. Science | BAF Shaheen Collage-Dhaka (_Jun 2018_)
+- **B.Sc. in Computer Science & Engineering**  
+  American International University-Bangladesh (_Jan 2020 - Dec 2023_)  
+  - Recipient of the Dean's Award for remarkable academic achievement
+
+- **H.S.C. in Science**  
+  BAF Shaheen College, Dhaka (_Jun 2018_)
 
 ## Experience
-**Junior AI Developer CRTVAI (Full-time _Remote_) (_April 2024 - Present_)**
+**AI Engineer-TechnyX.ai (Full time _On-site_) (_December 2024 - Present_)** 
+- Developing state-of-the-art AI solution for solving real-world on demand intrastry problems.
+
+**Freelancer-UpWork (Part-time _Remote_) (_October 2024 - Present_)**
+- Developed a state-of-the-art super-resolution model for image upscaling, leveraging advanced techniques to enhance image quality and detail.
+- Modified the architecture of the ”Dual Attention Transformer” to effectively upscale images from two distinct sources, ensuring optimal performance and quality.
+- Designed a robust architecture that utilizes channel-wise concatenation of images, focusing on the most efficient features to improve the overall upscaling process.
+- Conducted extensive testing and validation of the model to ensure high accuracy and reliability in various real-world applications.
+- Collaborated with clients to understand their specific needs and provided tailored solutions, resulting in a 30% increase in client satisfaction ratings.
+
+**Junior AI Developer CRTVAI (Full-time _Remote_) (_April 2024 - September 2024_)**
 - Designed and implemented the system architecture and API endpoints of an automated quality control AI application to enhance customer care services.
 - Fine-tuned speech-to-text models, deploying server-less models to minimize third-party transcription costs.
 - Improved the Voice Activity Detection pipeline and conducted a detailed analysis of speech metrics to enhance accuracy and efficiency.
@@ -33,6 +46,16 @@
 
 
 ## Projects
+### (_Chat Bot_) [MediChat-Assistant](https://github.com/sadhiin/Medical-Chatbot)
+- Developed a medical chatbot application leveraging the open-source LLM Llama-2 7B-chat with Retrieval-Augmented Generation (RAG) for accurate, source-based responses.
+  - **Accurate medical assistance:** Utilized RAG to provide precise, context-aware responses by retrieving relevant information from trusted medical sources.
+  - **User-friendly interaction:** Built a seamless interface using FastAPI, enabling easy access to the chatbot via RESTful APIs.
+  - **Enhanced response quality:** Integrated Langchain for efficient prompt engineering and improved conversational flow.
+  - **Scalable and modular:** Designed with a modular architecture, allowing for easy integration of additional features or datasets.
+
+- Tech: LLM (Llama-2 7B-chat), RAG, VectorDB, Python, FastAPI, Langchain
+- Skills: Natural Language Processing, API Development, Prompt Engineering, Vector Database Integration
+
 ### (_Python Package_) [SpectraClassify](https://pypi.org/project/SpectraClassify/)
 - Built a user-friendly web application for training custom image classification models without writing code.
   - **Effortlessly create custom models:** Train models on their own data with a simple interface, eliminating the need for coding expertise.
