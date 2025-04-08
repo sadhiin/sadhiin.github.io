@@ -12,7 +12,14 @@
 
 ## Experience
 **AI Engineer-TechnyX.ai (Full time _On-site_) (_December 2024 - Present_)** 
-- Developing state-of-the-art AI solution for solving real-world on demand intrastry problems.
+- Led development of advanced computer vision and multimodal AI solutions, address and solved real-world industry
+challenges with 98% accuracy.
+- Architected and deployed vision-language models for in-house API development, optimizing inference cost by 40% and
+reducing computational costs through efficient model deployment.
+- Engineered state-of-the-art computer vision algorithms and end-to-end AI applications, integrating LLMs with computer
+vision systems for building robust solution.
+- Collaborated with cross-functional teams to design and deploy scalable AI software solutions, ensuring seamless
+integration of multiple AI technologies across the platform
 
 **Freelancer-UpWork (Part-time _Remote_) (_October 2024 - Present_)**
 - Developed a state-of-the-art super-resolution model for image upscaling, leveraging advanced techniques to enhance image quality and detail.
