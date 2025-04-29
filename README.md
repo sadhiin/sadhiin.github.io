@@ -53,6 +53,21 @@ integration of multiple AI technologies across the platform
 
 
 ## Projects
+## PROJECTS
+
+### YouTube Video Summarizer** | [GitHub Link](https://github.com/sadhiin/youtube-video-summarizer)
+*Full-Stack AI Application* | [April 2025 - Present]
+
+- Developed a Python application that automates YouTube video transcription and summarization using LLM models, reducing content review time by up to 90%.
+- Architected a scalable solution with FastAPI backend, Streamlit frontend, and SQLAlchemy ORM with support for both SQLite and PostgreSQL databases.
+- Implemented semantic search capabilities using FAISS vector database, enabling users to query across multiple video transcripts simultaneously.
+- Integrated Groq's Whisper API for accurate speech-to-text transcription and LLM models for generating concise, high-quality summaries of video content.
+- Built an interactive chat interface using LangChain memory, allowing users to have natural language conversations about video content.
+- Created a robust caching system with Redis (with in-memory fallback) to optimize performance and minimize API usage costs.
+- Designed multiple access interfaces including a web UI, RESTful API, and command-line interface for maximum flexibility.
+
+- **Technologies:** Python 3.12+, FastAPI, Streamlit, LangChain, FAISS, SQLAlchemy, Redis, Groq API, PyTubeFix
+
 ### (_Chat Bot_) [MediChat-Assistant](https://github.com/sadhiin/Medical-Chatbot)
 - Developed a medical chatbot application leveraging the open-source LLM Llama-2 7B-chat with Retrieval-Augmented Generation (RAG) for accurate, source-based responses.
   - **Accurate medical assistance:** Utilized RAG to provide precise, context-aware responses by retrieving relevant information from trusted medical sources.
@@ -60,7 +75,7 @@ integration of multiple AI technologies across the platform
   - **Enhanced response quality:** Integrated Langchain for efficient prompt engineering and improved conversational flow.
   - **Scalable and modular:** Designed with a modular architecture, allowing for easy integration of additional features or datasets.
 
-- Tech: LLM (Llama-2 7B-chat), RAG, VectorDB, Python, FastAPI, Langchain
+- Tech-Stack: LLM (Llama-2 7B-chat), RAG, VectorDB, Python, FastAPI, Langchain
 - Skills: Natural Language Processing, API Development, Prompt Engineering, Vector Database Integration
 
 ### (_Python Package_) [SpectraClassify](https://pypi.org/project/SpectraClassify/)
