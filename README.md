@@ -55,7 +55,7 @@ integration of multiple AI technologies across the platform
 ## Projects
 ## PROJECTS
 
-### YouTube Video Summarizer** | [GitHub Link](https://github.com/sadhiin/youtube-video-summarizer)
+### YouTube Video Summarizer | [GitHub Link](https://github.com/sadhiin/youtube-video-summarizer)
 *Full-Stack AI Application* | [April 2025 - Present]
 
 - Developed a Python application that automates YouTube video transcription and summarization using LLM models, reducing content review time by up to 90%.
@@ -66,36 +66,36 @@ integration of multiple AI technologies across the platform
 - Created a robust caching system with Redis (with in-memory fallback) to optimize performance and minimize API usage costs.
 - Designed multiple access interfaces including a web UI, RESTful API, and command-line interface for maximum flexibility.
 
-- **Technologies:** Python 3.12+, FastAPI, Streamlit, LangChain, FAISS, SQLAlchemy, Redis, Groq API, PyTubeFix
+- **Tech-Stack:** FastAPI, Streamlit, LangChain, FAISS, SQLAlchemy, Redis, Groq API, Nvidia-Infarence API ,PyTube
 
-### (_Chat Bot_) [MediChat-Assistant](https://github.com/sadhiin/Medical-Chatbot)
+### (_Chat Bot_) MediChat-Assistant | [GitHub Link](https://github.com/sadhiin/Medical-Chatbot)
 - Developed a medical chatbot application leveraging the open-source LLM Llama-2 7B-chat with Retrieval-Augmented Generation (RAG) for accurate, source-based responses.
   - **Accurate medical assistance:** Utilized RAG to provide precise, context-aware responses by retrieving relevant information from trusted medical sources.
   - **User-friendly interaction:** Built a seamless interface using FastAPI, enabling easy access to the chatbot via RESTful APIs.
   - **Enhanced response quality:** Integrated Langchain for efficient prompt engineering and improved conversational flow.
   - **Scalable and modular:** Designed with a modular architecture, allowing for easy integration of additional features or datasets.
 
-- Tech-Stack: LLM (Llama-2 7B-chat), RAG, VectorDB, Python, FastAPI, Langchain
+- **Tech-Stack:**: LLM (Llama-2 7B-chat), RAG, VectorDB, Python, FastAPI, Langchain
 - Skills: Natural Language Processing, API Development, Prompt Engineering, Vector Database Integration
 
-### (_Python Package_) [SpectraClassify](https://pypi.org/project/SpectraClassify/)
+### (_Python Package_) SpectraClassify | [GitHub Link](https://pypi.org/project/SpectraClassify/)
 - Built a user-friendly web application for training custom image classification models without writing code.
   - **Effortlessly create custom models:** Train models on their own data with a simple interface, eliminating the need for coding expertise.
   - **Experiment with diverse models:** Select from a variety of pre-trained models or fine-tune existing ones for specific tasks.
   - **Seamless testing and inference:** Upload images or utilize webcam input to test the accuracy and effectiveness of their trained models.
   - **Published as a PyPI package:** Enabling broader accessibility and facilitating quick image classification model training with minimal code for developers.
 
-- Tech: Python, TensorFlow, JS, HTML, Bash
+- **Tech-Stack:**: Python, TensorFlow, JS, HTML, Bash
 - Skills: Deep Learning, Web Development, CICD pipeline.
 
-### [Kidney Tumors and Stones Classification](https://github.com/sadhiin/kidney-disease-classification-DL-MLOPS)
+### Kidney Tumors and Stones Classification | [GitHub Link](https://github.com/sadhiin/kidney-disease-classification-DL-MLOPS)
 - A deep learning project aimed at accurately classifying kidney tumors and stones from medical images.
   - The project is designed to integrate state-of-the-art machine learning techniques with robust data management and collaborative tools, providing a significant contribution to medical imaging analysis.
 
-- Tech: Python · TensorFlow · DVC · MLOps.
+- **Tech-Stack:**: Python · TensorFlow · DVC · MLOps.
 - Skills: Deep Learning, Web-Development, Version Control.
 
-### [Community Platform for AIUB Students - AIG](https://github.com/sadhiin/AIUB_Ideas_Gateway)
+### Community Platform for AIUB Students - AIG | [GitHub Link](https://github.com/sadhiin/AIUB_Ideas_Gateway)
 - Developed a comprehensive web application (ASP.NET Web API) using C# and Entity Framework to foster the AIUB student community. Adhering to SOLID principles and a robust 3-tier architecture, the platform empowers students with:
   - **Engaging communication:** Features for students to connect and share information.
   - **Streamlined resume building:** Efficient tools for creating resumes for the users.
@@ -103,10 +103,10 @@ integration of multiple AI technologies across the platform
   - **Advanced access control:** Admin control over post and job moderation, user management, and security.
 - **Responsibilities included:** Full database design, Use-case analysis, Authentication & authorization, Development of features and API endpoints
   
-- Tech:ASP.NET, C#, Entity-Framework, Git
+- **Tech-Stack:**: ASP.NET, C#, Entity-Framework, Git
 - Skills: Software Development, Version-controll
 
-### [Emotion Classification from Face Images in Real-Time](https://github.com/sadhiin/python_project)
+### Emotion Classification from Face Images in Real-Time | [GitHub Link](https://github.com/sadhiin/python_project)
 - Developed a real-time emotion classification system using a custom deep learning model and Flask Web API. This project enables users to:
   + **Classify emotions in real-time:** Leverage their webcam to capture facial expressions and receive instant emotion classification through a user-friendly web interface.
   + **High-accuracy classification:** The custom deep learning model delivers accurate emotion identification, fostering potential applications in various fields.
@@ -114,35 +114,35 @@ integration of multiple AI technologies across the platform
 - Tech: Python,TensorFlow, OpenCV, Flask, JavaScript, HTML, CSS.
 - Skill: Deep Learning, Image processing, Web-development.
 
-### [On-the-Go-Podcast](https://github.com/sadhiin/on-the-go-podcast)
+### On-the-Go-Podcast | [GitHub Link](https://github.com/sadhiin/on-the-go-podcast)
 - Developed a podcast app using PHP to empower podcast enthusiasts. This platform offers:
   + Streamlined organization: Efficient tools for managing playlists, and listening progress.
   + Seamless podcast experience: Effortlessly discover, subscribe to, and enjoy favorite podcasts, all within a user-friendly interface.
 
-- Tech: PHP, JavaScript, Bootstrap, CSS, HTML, Git
+- **Tech-Stack:**: PHP, JavaScript, Bootstrap, CSS, HTML, Git
 - Skills: Web development
 
-### [Fashion Recommendation System Using ResNet-50](https://github.com/sadhiin/ML_project)
+### Fashion Recommendation System Using ResNet-50 | [GitHub Link](https://github.com/sadhiin/ML_project)
 - An end-to-end fashion recomendation system uisng deep learning and machine learning.
   + Feature extraction using Resnet50
   + Similarity matching using k nearest neighbours (KNN)
 
-- Tech: Python, Numpy, Tensorflow, Scikit-learn, Git
+- **Tech-Stack:**: Python, Numpy, Tensorflow, Scikit-learn, Git
 - Skills: Machine learning
 
-### [Chrome Dingo Clone Build with OpenGL](https://github.com/sadhiin/CG-Project)
+### Chrome Dingo Clone Build with OpenGL | [GitHub Link](https://github.com/sadhiin/CG-Project)
   - A 2D Chrome Dino-like game using OpenGL(freeglut) and C++
 
-  - Tech: C++, OpenGL
+  - **Tech-Stack:**: C++, OpenGL
   - Skills: Computer Graphics, Game logic
     
-### [Hospital Management System](https://github.com/sadhiin/csharpProject)
+### Hospital Management System | [GitHub Link](https://github.com/sadhiin/csharpProject)
 - Developed a comprehensive hospital management system to streamline operations and enhance efficiency in multi-department healthcare facilities. This desktop application features:
   + Multi-user access control: Granular role-based permissions for doctors, nurses, administrators, and other staff members.
   + Comprehensive department management: Dedicated modules for various departments like admissions, billing, pharmacy, and patient records.
   + User-friendly interface: Intuitive design for seamless navigation and efficient data management. 
 
-- Tech: C#, C#-Form , MS-sql, Git
+- **Tech-Stack:**: C#, C#-Form , MS-sql, Git
 - Skill: Desktop application, Database design.
 ## Honors and Awards
 - Dean’s List Award - for outstanding academic performance in undergrad.
