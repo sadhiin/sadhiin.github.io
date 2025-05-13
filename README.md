@@ -55,6 +55,19 @@ integration of multiple AI technologies across the platform
 ## Projects
 ## PROJECTS
 
+### DeepCrawl-Chat: Intelligent Web Crawler and RAG System | [GitHub Link](https://github.com/sadhiin/DeepCrawl-Chat)
+*Full-Stack AI Application* | [March 2025 - Present]
+
+- Developed "DeepCrawl-Chat," an intelligent system for advanced web crawling, information extraction, and Retrieval Augmented Generation (RAG). This allows users to crawl websites and interactively query the content using AI language models, facilitating tasks such as competitor website analysis and effective LLM-integrated data analysis.
+  - Advanced, configurable web crawling (depth, concurrency, filters).
+  - Efficient extraction of text, links, and media.
+  - High-performance asynchronous crawling and parallel document processing.
+  - Built an interactive chat interface using LangChain memory, allowing users to have natural language conversations about video content.
+  - RAG system for asking questions about crawled content.
+  - Designed for standalone use or flexible integration via a FastAPI-based API..
+
+- **Tech-Stack:** Python, FastAPI, LangChain, FAISS, Docker, Uvicorn, NVIDIA AI, SQLAlchemy, Redis, Groq API.
+
 ### YouTube Video Summarizer | [GitHub Link](https://github.com/sadhiin/youtube-video-summarizer)
 *Full-Stack AI Application* | [April 2025 - Present]
 
