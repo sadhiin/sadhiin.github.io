@@ -11,7 +11,7 @@
   BAF Shaheen College, Dhaka (_Jun 2018_)
 
 ## Experience
-**AI Engineer-TechnyX.ai (Full time _On-site_) (_December 2024 - Present_)** 
+**AI Engineer-TechnyX.ai (Full time _On-site_) (_December 2024 - May 2025_)** 
 - Led development of advanced computer vision and multimodal AI solutions, address and solved real-world industry
 challenges with 98% accuracy.
 - Architected and deployed vision-language models for in-house API development, optimizing inference cost by 40% and
@@ -163,4 +163,3 @@ integration of multiple AI technologies across the platform
 ## Contract
 - Reach me at email: [sadhin.aiub.cse@gmail.com](mailto:sadhin.aiub.cse@gmail.com)
 - Follow me on [Linkedin](https://www.linkedin.com/in/sadhiin/)
-
